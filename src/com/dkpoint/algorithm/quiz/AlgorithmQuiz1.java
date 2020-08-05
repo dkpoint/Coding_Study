@@ -1,7 +1,5 @@
 package com.dkpoint.algorithm.quiz;
 
-import java.util.Scanner;
-
 /*
 1.
 임의의 시험 점수를 입력(혹은 랜덤으로)받아 
