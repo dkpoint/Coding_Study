@@ -10,7 +10,7 @@ public class AlgorithmQuiz12 {
 	public static void main(String[] args) {
 
 		int number = 1;
-		int goal = 100;
+		int goal = 3;
 		int sum = 0;
 		
 		while(true) {
