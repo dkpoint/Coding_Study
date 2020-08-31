@@ -1,8 +1,5 @@
 package com.dkpoint.algorithm.quiz;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /*
 29. 다음과 같은 배열이 있다.
 정렬해서 출력하세요.(퀵소팅)
