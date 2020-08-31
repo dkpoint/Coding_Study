@@ -77,7 +77,7 @@ class QuickSort {
 	void getQuickSort() {
 
 		System.out.print("[");
-		
+
 		for (int number_index = 0; number_index < number_array.length; number_index++) {
 
 			if (number_index != right) {
@@ -91,7 +91,7 @@ class QuickSort {
 			}
 
 		}
-		
+
 		System.out.print("]");
 
 	}
